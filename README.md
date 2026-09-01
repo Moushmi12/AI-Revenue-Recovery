@@ -109,6 +109,7 @@ Recovery Priority
 Recovery Recommendation
           ↓
 Personalized Message
+
 ## 6. Technologies Used
 
 - Python
@@ -195,6 +196,7 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
 ## 12. Future Enhancements
 
 - Real-time payment monitoring
@@ -214,4 +216,4 @@ The dataset and recovery outcomes are synthetic and are used only for demonstrat
 
 ## Author
 
-**Moushmi12**
+Moushmi12
