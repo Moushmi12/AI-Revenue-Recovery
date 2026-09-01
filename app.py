@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # load data
-data = pd.read_csv("data/payments.csv")
+data = pd.read_csv("payments.csv")
 
 # title
 st.title("💰 AI Revenue Recovery System")
