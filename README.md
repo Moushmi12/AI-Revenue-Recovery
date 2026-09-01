@@ -109,6 +109,10 @@ Recovery Priority
 Recovery Recommendation
           ↓
 Personalized Message
+          ↓
+Streamlit Dashboard
+          ↓
+Recovery Report
 
 6. Technologies Used
 Python
@@ -119,6 +123,7 @@ Logistic Regression
 Matplotlib
 Streamlit
 GitHub
+
 7. Dataset
 
 The project uses a synthetic payment dataset created for internship and demonstration purposes.
@@ -168,6 +173,7 @@ Recovery Probability	Risk Level	Priority
 Below 40%	High Risk	Urgent
 40% to below 70%	Medium Risk	Follow-up
 70% and above	Low Risk	Routine
+
 10. Dashboard Features
 
 The Streamlit dashboard provides:
@@ -181,6 +187,7 @@ Customer search
 Recovery recommendation
 Personalized recovery message
 Recovery report download
+
 11. How to Run
 Step 1: Install Required Libraries
 pip install -r requirements.txt
@@ -193,6 +200,7 @@ After running the application, open the URL shown in the terminal.
 Usually:
 
 http://localhost:8501
+
 12. Future Enhancements
 Real-time payment monitoring
 Automated email and SMS reminders
@@ -200,6 +208,7 @@ Larger real-world datasets
 Advanced machine learning models
 Payment gateway integration
 Cloud deployment
+
 Note
 
 This project is a prototype developed for internship and educational purposes.
@@ -209,7 +218,4 @@ The dataset and recovery outcomes are synthetic and are used only for demonstrat
 Author
 
 Moushmi12
-          ↓
-Streamlit Dashboard
-          ↓
-Recovery Report
+
